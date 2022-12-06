@@ -1,5 +1,6 @@
 <?php 
 
+//  
 
 	function do_empty(){
 		global $con;
